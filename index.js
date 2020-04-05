@@ -1,1 +1,1 @@
-console.log('hello world');
+// run: node receive.js, then: node send.js
